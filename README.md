@@ -42,14 +42,15 @@ optional arguments:
   --list-languages      List all available source/destination languages
 ```
 
-### License
-
-MIT
-
-###How to use "Powershell-Convert-Video-To-Word-With-AutoSub.ps1"
+### How to use "Powershell-Convert-Video-To-Word-With-AutoSub.ps1"
 1. After install autosub, copy to a folder as name "autosub_app" and move it same path with Powershell-Convert-Video-To-Word-With-AutoSub.ps1.
 2. Be sure Microsoft Office Word install in same device , and device can connect to google speech.
 3. Right click mouse on Powershell-Convert-Video-To-Word-With-AutoSub.ps1 then click "Execute as powershell".
 4. Select source video language.
 5. Select source video.
 6. Wait to complete.
+
+
+### License
+
+MIT
